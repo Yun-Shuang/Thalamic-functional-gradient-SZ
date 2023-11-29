@@ -1,2 +1,2 @@
 # Thalamic-functional-gradient-SZ
-Macroscale thalamic functional organization disturbances and underlying core cytoarchitecture in early-onset schizophrenia
+Yun-Shuang Fan, Yong Xu, Şeyma Bayrak, James M Shine, Bin Wan, Haoru Li, Liang Li, Siqi Yang, Yao Meng, Sofie L Valk, Huafu Chen, Macroscale Thalamic Functional Organization Disturbances and Underlying Core Cytoarchitecture in Early-Onset Schizophrenia, Schizophrenia Bulletin, Volume 49, Issue 5, September 2023, Pages 1375–1386, https://doi.org/10.1093/schbul/sbad048
